@@ -6,4 +6,6 @@
 
 const numbers = [7, 12, 13, 6, 92, 33]
 
-console.log(numbers.sort())
+console.log(numbers)
+numbers.sort()
+console.log(numbers)
