@@ -1,5 +1,6 @@
 // push trycker in ett argument i en array
 // de man skriver som argument i funktionen läggs längst bak i arrayen
+// returnerar inget utan påverkar bara arrayen
 
 // ex: 
 const agesInTheFamily = [52, 52, 24, 21, 17]

@@ -1,5 +1,7 @@
 // map tar en funtion som argument och påverkar alla
-// element i arrayen i med den funktionen
+// element i arrayen i med den funktionen. den skapar en ny array
+// med dom element som uppfyllt vilkoret
+// returnerar en array
 
 const arr = [3, 5, 8, 423, 2, 38]
 const appleProducts = ['iPhone', 'iPad', 'Mac', 'airpods']
