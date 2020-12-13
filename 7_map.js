@@ -11,3 +11,5 @@ const capslok = (str) => str.toUpperCase()
 
 console.log(arr.map(devideWithTwo))
 console.log(appleProducts.map(capslok))
+console.log(arr)
+console.log(appleProducts)
